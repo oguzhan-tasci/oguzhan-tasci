@@ -1,4 +1,4 @@
-<img align="bottom" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
 ## I'm a Student 👨‍🎓, Full Stack Developer 🚀, Bookworm ✍ and Visionary 👨‍🎓!
 - 🔭 I’m currently working on a large and special application.
@@ -23,6 +23,10 @@ I'm developing a project based on e-commerce.
 
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/Node.js.svg" />
+[<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png" />][javascript]
 
 
 <br />
