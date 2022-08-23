@@ -12,10 +12,9 @@ I'm developing a project based on e-commerce.
 <br />
 
 ### 📩 Connect with me:
-
-[<img align="left" alt="linkedin | LinkedIn" width="34px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" height=""32 width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" height=""26 width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][instagram]
+[<img align="left" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 <br />
 
