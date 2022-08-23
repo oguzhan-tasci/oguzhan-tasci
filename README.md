@@ -5,9 +5,9 @@
 - 🌱 I’m currently learning 😂
 - 👯 I’m looking to collaborate with other developer 
 - 🥅 2022 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
-- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
+
 ## ⏲ What we are doing now:
-I'm developing a project
+I'm developing a project based on e-commerce. 
 
 <br />
 
