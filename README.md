@@ -13,9 +13,9 @@ I'm developing a project based on e-commerce.
 
 ### 📩 Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" alt="linkedin | LinkedIn" width="34px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" height="" width="34" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" height="24" width="34" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -44,4 +44,3 @@ I'm developing a project based on e-commerce.
 [instagram]: https://www.instagram.com/oguzhan.suavi
 [linkedin]: https://www.linkedin.com/in/oguzhan-tasci/
 [gmail]: mailto:oguzhann.tasci07@gmail.com
-
