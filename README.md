@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a large and special application.
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate with other developer 
-- 🥅 2022 Goals: Developing an app to be heard in the world 🌎
+- 🥅 2023 Goals: Developing an app to be heard in the world 🌎
 
 ## ⏲ What we are doing now:
 I'm developing a project based on e-commerce. 
